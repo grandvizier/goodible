@@ -1,0 +1,3 @@
+// This script is to perform a sample test against the command line before UI developement
+//     could be reused as a test script later...
+

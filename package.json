@@ -1,0 +1,19 @@
+{
+  "name": "goodible",
+  "version": "0.0.1",
+  "author": "grandvizier <admin@thedreamingjeff.com>",
+  "description": "tool that will parse your Audible library, and let you sync the content with your Goodreads account",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grandvizier/goodible.git"
+  },
+  "keywords": [
+    "audible",
+    "goodreads"
+  ],
+  "dependencies": {
+    "colors": "~0.6.2",
+    "async": "~0.2.10",
+    "lodash": "~2.4.1",
+  }
+}
