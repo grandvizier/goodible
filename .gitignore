@@ -3,6 +3,10 @@ logs
 *.log
 npm-debug.log*
 
+# book data
+goodreads_library_export.csv
+book_images/
+
 # Runtime data
 pids
 *.pid
