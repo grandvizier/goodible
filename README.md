@@ -14,3 +14,6 @@ This data is only used once and not saved. If an error occurs or you need to sta
 
 ## Installation
 
+```
+npm install
+```
