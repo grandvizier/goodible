@@ -4,7 +4,7 @@ logs
 npm-debug.log*
 
 # book data
-goodreads_library_export.csv
+goodreads_library_export*.csv
 book_images/
 
 # Runtime data
